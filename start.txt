@@ -1,5 +1,7 @@
 changing title
 
+changing here for demo of automatic merge 
+
 Copyright added
 i have modified here
 
