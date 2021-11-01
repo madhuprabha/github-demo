@@ -1,6 +1,7 @@
 # github-demo
 A simple demo repository created to learn git
 modified for automatic merge from main branch
+merge conflict demo - this is from master branch
 
 ## Introduction
 
