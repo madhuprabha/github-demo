@@ -2,7 +2,7 @@ changing title
 
 changing here for demo of automatic merge 
 
-Copyright added
+Copyright added. edited here for statsh demo
 i have modified here
 
 Test git by creating text file
